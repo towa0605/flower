@@ -27,6 +27,16 @@ section {
     margin-bottom: 60px;
 }
 
+section:nth-child(even) {
+    flex-direction: row-reverse;
+}
+
+.hero img {
+    width: 100%;
+    height: 400px;
+    object-fit: cover;
+}
+
 .pic {
     width: 180px;
     margin-right: 150px;
