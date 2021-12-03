@@ -39,7 +39,7 @@ section:nth-child(even) {
 
 .pic {
     width: 180px;
-    margin-right: 150px;
+    margin-left: 150px;
 }
 
 .desc {
