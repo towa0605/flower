@@ -40,7 +40,7 @@ section:nth-child(even) {
 
 .pic {
     width: 180px;
-    margin-left: 150px;
+    margin-right: 100px;
 }
 
 .desc {
@@ -50,4 +50,15 @@ section:nth-child(even) {
 img {
     width: 250px;
     height: 250px;
+    object-fit: cover;
 }
+
+
+/* scene */
+
+.flo img {
+    width: 300px;
+    height: 300px;
+}
+
+/* access */
