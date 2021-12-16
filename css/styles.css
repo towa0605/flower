@@ -61,4 +61,28 @@ img {
     height: 300px;
 }
 
+.fio ul {
+    margin-top: 32px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+}
+
+.flo li {
+    width: calc((100% - 16px) / 2);
+}
+
+.flo li a {
+    display: block;
+}
+
+h3 {
+    margin: 0;
+    font-weight: normal;
+}
+
+p {
+    margin: 0;
+}
+
 /* access */
