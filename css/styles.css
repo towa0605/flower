@@ -38,6 +38,8 @@ section:nth-child(even) {
     object-fit: cover;
 }
 
+/* season */
+
 .pic {
     width: 180px;
     margin-right: 100px;
@@ -61,7 +63,7 @@ img {
     height: 300px;
 }
 
-.fio ul {
+.flo ul {
     margin-top: 32px;
     display: flex;
     flex-wrap: wrap;
